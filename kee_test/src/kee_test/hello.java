@@ -1,8 +1,9 @@
 package kee_test;
 
 public class hello {
-	public static return_type name() {
-		hello
+	public static void main(String args[])
+	{
+		System.out.println("hello");
 		
 	}
 
